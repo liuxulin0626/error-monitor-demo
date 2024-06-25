@@ -1,0 +1,28 @@
+错误类型：Window
+错误发生时间：2024-06-25 11:47:09
+IP：::ffff:127.0.0.1
+安卓: false IOS: false 移动端: false 微信: false （安卓和ios同时为false表示未知设备）
+用户代理：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+错误信息：aaa is not defined
+---------------------------------- 
+错误类型：Window
+错误发生时间：2024-06-25 11:47:09
+IP：::ffff:127.0.0.1
+安卓: false IOS: false 移动端: false 微信: false （安卓和ios同时为false表示未知设备）
+用户代理：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+错误信息：加载异常https://www.baidu.com/abcdefg.gif
+---------------------------------- 
+错误类型：Window
+错误发生时间：2024-06-25 12:13:38
+IP：::ffff:127.0.0.1
+安卓: false IOS: false 移动端: false 微信: false （安卓和ios同时为false表示未知设备）
+用户代理：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+错误信息：aaa is not defined
+---------------------------------- 
+错误类型：Window
+错误发生时间：2024-06-25 12:13:38
+IP：::ffff:127.0.0.1
+安卓: false IOS: false 移动端: false 微信: false （安卓和ios同时为false表示未知设备）
+用户代理：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+错误信息：加载异常https://www.baidu.com/abcdefg.gif
+---------------------------------- 
